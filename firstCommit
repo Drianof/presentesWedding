@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<title>Colaboração com PIX</title>
+</head>
+
+<body>
+  <section class= "pixDosNoivosSection">
+    
+    <div class= "valoresPixEsquerda">
+      <div id="cinquentaReais">
+        <p><strong>Presenteie</strong> com <strong>R$50,00</strong><p> 
+      </div> 
+      <div id="centoeCinquentareais">
+        <p><strong>Presenteie</strong> com <strong>R$150,00</strong><p> 
+      </div>
+         <div id="duzentoseCinquentareais">
+        <p><strong>Presenteie</strong> com <strong>R$250,00</strong><p> 
+      </div>
+         <div id="trezentoseCinquentareais">
+        <p><strong>Presenteie</strong> com <strong>R$350,00</strong><p> 
+      </div>
+         <div id="quatrocentoseCinquentareais">
+        <p><strong>Presenteie</strong> com <strong>R$450,00</strong><p> 
+      </div>
+         <div id="valorSimbolico">
+        <p><strong>Presenteie</strong> com <strong>outro</strong> valor!<p> 
+      </div>
+      
+    </div>
+    
+    <div class="ladoDireito">
+      <div class="tittle">
+            <h1>Ana Giulia & Adriano</h1>
+       </div>
+      <div class="ImgDosNoivos">
+        <p>ILUSTRATIVO</P>
+      </div>
+      
+      <div class="pixDosNoivos">
+        <p>ILUSTRATIVO</P>
+      </div>
+      
+      
+      
+      
+      
+    </div>
+    
+  </section>
+  
+  
+  
+
+</body>
+
+</html>
