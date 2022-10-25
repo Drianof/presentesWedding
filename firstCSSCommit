@@ -1,0 +1,91 @@
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(173, 144, 62, 0.559);
+}
+
+.pixDosNoivosSection{
+  display:flex;
+  width: 70%;
+  height: 500px;
+  background-color: #f8f8f8d3;
+  border-radius: 40px;
+  
+}
+.valoresPixEsquerda{
+  display:block;
+  margin-left:30px;
+  margin-top:40px;
+  
+}
+
+#cinquentaReais{
+  background-color: rgba(173, 144, 62, 0.559);
+  border-radius: 40px;
+  width:500px;
+  height:25px;
+  text-align: center;
+  margin-bottom:40px;
+  
+}
+#centoeCinquentareais{
+    background-color: rgba(173, 144, 62, 0.559);
+    border-radius: 40px;
+    width:500px;
+    height:25px;
+    text-align: center;
+    margin-bottom:40px;
+}
+#duzentoseCinquentareais{
+      background-color: rgba(173, 144, 62, 0.559);
+      border-radius: 40px;
+      width:500px;
+      height:25px;
+      text-align: center;
+      margin-bottom:40px;
+}
+#trezentoseCinquentareais{
+        background-color: rgba(173, 144, 62, 0.559);
+        border-radius: 40px;
+        width:500px;
+        height:25px;
+        text-align: center;
+        margin-bottom:40px;
+}
+#quatrocentoseCinquentareais{
+          background-color: rgba(173, 144, 62, 0.559);
+          border-radius: 40px;
+          width:500px;
+          height:25px;
+          text-align: center;
+          margin-bottom:40px;
+  
+}
+#valorSimbolico{
+            background-color: rgba(173, 144, 62, 0.559);
+            border-radius: 40px;
+            width:500px;
+            height:25px;
+            text-align: center;
+            margin-bottom:40px;
+}
+.ladoDireito{
+    display:block;
+    margin-left:100px;
+    margin-top:40px;
+    width:400px;
+    border-radius:20px;
+    
+    
+}
+.pixDosNoivos{
+   
+}
+
+.tittle{
+  background-color: rgba(173, 144, 62, 0.559);
+  
+
+  
+}
